@@ -20,10 +20,10 @@ I always keep myself informed and updated, and I always try to learn about what 
    </div>
 
 ---
+ <h3 align="center"> 📭 How to reach me:</h3>
+   < align="center"> <br>
 
-   <h3 align="center"> <br>
- 📫 How to reach me:<br>
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/damianpalacioss/)](https://www.linkedin.com/in/damianpalacioss/)
 
-   </h3>
+  
