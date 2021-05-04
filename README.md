@@ -21,8 +21,8 @@ I always keep myself informed and updated, and I always try to learn about what 
 
 ---
 
-   <div align="center">
+   <h3 align="center"> 
 
-   [![Linkedin Badge]
+   [![image] ({ttps://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
-   </div>
+   </h3>
