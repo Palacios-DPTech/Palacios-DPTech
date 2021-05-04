@@ -1,36 +1,28 @@
-# Start Sua Carreira - Portfólio
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Damian Palacios</h1>
 
-Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
+<h4 align="center"> Welcome to my profile 🏆 </h4>
 
-## O projeto
+<p align="center">
+🚀 I always seek to improve and intensify my learning, always challenging myself and learning new things.<br>
+🧠 I'm currently working with FreeLance<br>
+📚 I'm currently learning CSS, HTML, Kotlin, FLutter, NodeJs, Python<br>
+I always keep myself informed and updated, and I always try to learn about what I don't know, and of course, to go even deeper into the things I already know. I love to stimulate my ability to solve problems and my creativity.
+</p>
 
-### Estrutura de pastas
+ ---
 
-- kenzie-academy_startnasuacarreira.png
-- README.md
-- dia1/
-  - index.html
-  - assets/
-    - img/
-      - facebook-app-symbol.svg
-      - github-big-logo.svg
-      - hudson.png
-      - instagram.svg
-      - linkedin.svg
-      - youtube.svg
-    - css/
-      - style.css
+   <div align="center">
 
-### Especificações
+![Felipe Sales's github stats](https://github-readme-stats.vercel.app/api?username=felipecastrosales&show_icons=true&theme=dark)
 
-- Fonte utilizada: `'Open Sans', sans-serif;`
-- Cores utilizadas:
-  - Azul escuro: `#04133d`;
-  - Azul: `#0a78fa`;
-  - Azul claro: `#45dbfc`;
-  - Azul mais claro: `#d4e9ff`;
-  - Branco: `#fff`;
-  - Cinza escuro: `#636363`;
-  - Cinza claro: `#aeaeae`;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecastrosales&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 
-### O layout
+   </div>
+
+---
+
+   <div align="center">
+
+   [![Linkedin Badge]
+
+   </div>
