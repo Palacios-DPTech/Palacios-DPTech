@@ -24,6 +24,6 @@ I always keep myself informed and updated, and I always try to learn about what 
    
   <div align="center">
  
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damianpalacioss/)](https://www.linkedin.com/in/damianpalacioss/)
+   [![Linkedin Badge](https://img.shields.io/badge/-Damian%20Palacios-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damianpalacioss/)](https://www.linkedin.com/in/damianpalacioss/)
   
   </div>
