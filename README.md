@@ -5,7 +5,7 @@
 <p align="center">
 🚀 I always seek to improve and intensify my learning, always challenging myself and learning new things.<br>
 🧠 I'm currently working with FreeLance<br>
-📚 I'm currently learning CSS, HTML, Kotlin, FLutter, NodeJs, Python<br>
+📚 I'm currently learning CSS, HTML, Kotlin, FLutter<br>
 I always keep myself informed and updated, and I always try to learn about what I don't know, and of course, to go even deeper into the things I already know. I love to stimulate my ability to solve problems and my creativity.
 </p>
 
