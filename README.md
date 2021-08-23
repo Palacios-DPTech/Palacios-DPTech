@@ -13,9 +13,9 @@ I always keep myself informed and updated, and I always try to learn about what 
 
    <div align="center">
 
-![Damian Palacios's github stats](https://github-readme-stats.vercel.app/api?username=Palacios-OPTIMOS&show_icons=true&theme=dark)
+![Damian Palacios's github stats](https://github-readme-stats.vercel.app/api?username=Palacios-DPTech&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palacios-OPTIMOS&theme=dark)](https://github.com/Palacios-OPTIMOS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palacios-DPTech&theme=dark)](https://github.com/Palacios-DPTech/github-readme-stats)
 
    </div>
 
